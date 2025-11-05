@@ -8,7 +8,7 @@ This report provides foundational knowledge and advanced techniques for large mo
 
 <p align="center">
   <a href="./ReadMe.md">简体中文</a> |
-  <a href="./en/ReadMe.md">English</a> |
+  <a href="./en/README.md">English</a> |
 </p>
 
 ### 📋 核心内容
